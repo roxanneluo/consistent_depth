@@ -2,7 +2,7 @@
  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i5_uVHWOJlh2adRFT5BuDhoRftq9Oosx#scrollTo=lNc6HHfHDfnE)
  
- ### [[Paper](https://arxiv.org/abs/2004.15021)] [[Project Website](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)] [[Google Colab](https://colab.research.google.com/drive/1i5_uVHWOJlh2adRFT5BuDhoRftq9Oosx#scrollTo=lNc6HHfHDfnE)]
+ ### [[Paper](https://arxiv.org/abs/2004.15021)] [[Project Website](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)] [[Google Colab](https://colab.research.google.com/drive/1tJ5UGOu2mReA_-uOsiz64ogU-fXphXVV?usp=sharing)]
 
 <p align='center'>
 <img src="thumbnail.gif" width='100%'/>
